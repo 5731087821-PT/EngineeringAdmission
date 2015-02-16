@@ -1,0 +1,37 @@
+{
+	"comment" : [
+		" NOTE Before editing:                                                                  ",
+		" 1. Please sort news by date ascending (newest first)                                  ",
+		" 2. Please strictly format time as follow:                                             ",
+		"                                                                                       ",
+		"      'DD/MM/YYYY hh:mm'                                                               ",
+		"    where YY is years    = 25xx                                                        ",
+		"          MM is months   = 01 ... 12                                                   ",
+		"          DD is days     = 01 ... 31                                                   ",
+		"          hh is hours    = 00 ... 23                                                   ",
+		"          mm is minutes  = 00 ... 59                                                   ",
+		"                                                                                       ",
+		"    Example : '02/01/2558 14:05'                                                       ",
+		"              means 2 January 2558   2.05 PM                                           ",
+		"                                                                                       ",
+		"    CAUTION: Wherever ther's 1-digit number, use leading zero (05 instead of 5)        "
+    ],
+
+	"data" : [
+		{
+			"time": "24/10/2557 00:00",
+			"header": "<strong>ประกาศโครงการรับตรงแบบปกติ</strong>",
+			"content": "<strong>กำหนดการรับสมัคร</strong><br/>&nbsp&nbsp– รับสมัคร : วันที่ 27 กุมภาพันธ์ 2558 – 5 มีนาคม 2558<br/><strong>คุณสมบัติผู้สมัคร</strong><br/>&nbsp&nbsp– กำลังศึกษา ม.6 หรือ สำเร็จการศึกษา ม.6 หรือ เทียบเท่า<br/>&nbsp&nbsp– ผลการเรียนเฉลี่ยสะสม(GPAX) 5 ภาคเรียน ไม่ต่ำกว่า 2.50<br/><a href='http://www.admissions.chula.ac.th/images/stories/admission_30_09_57.pdf' target='_blank'>ดาวน์โหลดระเบียบการรับสมัคร</a><br/><a href='directadmission.html' target='_blank'>ดูคะแนนต่ำสุดย้อนหลัง</a><br/><a href='http://admission3.atc.chula.ac.th/CalcScore.aspx' target='_blank'>โปรแกรมคำนวณคะแนน</a>"
+		},
+		{
+			"time": "13/10/2557 00:00",
+			"header": "<strong>ISE Open house</strong>",
+			"content": "ขอเชิญน้องๆระดับมัธยมศึกษาที่สนใจหรืออยากรู้จัก ISE มากขึ้น เข้าร่วมงานเปิดบ้านISE<br/>&nbsp&nbsp– งานจัดวันที่ 9 พฤศจิกายน 2557<br/>&nbsp&nbsp– ที่ห้องประชุม 117 ตึก 3 คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย<br/>&nbsp&nbsp– สามารถลงทะเบียนได้ตั้งแต่วันนี้ถึง 5 พฤศจิกายน 2557 <a href='https://docs.google.com/forms/d/12_ZnHp-AY0Gtauo8EWU5NdIh_uBbxvOZh7oNxizW6ZI/viewform?c=0&w=1' alt='ISE Chula'>ลงทะเบียนคลิ๊ก</a><br/>ติดตามข้อมูลเพิ่มเติมได้<a href='https://www.facebook.com/ISEopenhouse' alt='ISE Chula'>ที่นี่</a>"
+		},
+		{
+			"time": "22/09/2557 00:00",
+			"header": "<strong>FECAMP #8</strong>",
+			"content": "พบกับค่ายติว PAT3 เพื่อสานฝันน้องๆ โดยพี่ๆจากวิศวฯ จุฬาฯ<br/>&nbsp&nbsp– สมัครได้ตั้งแต่วันนี้ถึง 7 พฤศจิกายน 2557<br/>&nbsp&nbsp– วันจัดค่าย 21-25 มกราคม 2558<br/>ติดตามรายละเอียดเพิ่มเติมได้<a href='http://www.fecampchula.net' alt'FECAMP Chula'>ที่นี่</a><br/>&nbsp&nbsp– วันจัดค่าย 21-25 มกราคม 2558<br/>Facebook <a href='https://www.facebook.com/fecampchula' alt'FECAMP Chula'>Fanpage</a>"
+		}
+	]
+}
